@@ -56,7 +56,7 @@ bool Robot::operator==(const Robot& robot) const {
 		return false;
 	}
 
-	if (wymiary[1] != robot.wymiary[1]) {
+	if (wymiary[2] != robot.wymiary[2]) {
 		return false;
 	}
 
