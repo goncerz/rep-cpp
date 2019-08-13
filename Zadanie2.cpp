@@ -38,7 +38,7 @@ void wypiszwspak(char *tekst) {
 	w--;
 
 	while (w >= tekst) {
-		char c = *w;
+		//char c = *w;
 		cout << *w;
 		w--;
 	}
